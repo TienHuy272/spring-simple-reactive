@@ -1,6 +1,6 @@
-package hnt.spring.reactive.dao;
+package hnt.spring.reactive.core.dao;
 
-import hnt.spring.reactive.dto.Customer;
+import hnt.spring.reactive.core.dto.Customer;
 import org.springframework.stereotype.Component;
 import reactor.core.publisher.Flux;
 

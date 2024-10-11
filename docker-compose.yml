@@ -1,0 +1,6 @@
+services:
+  mongodb:
+    image: mongo:6.0.4
+    mem_limit: 512m
+    ports:
+      - "27017:27017"

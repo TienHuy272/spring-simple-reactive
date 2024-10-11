@@ -1,7 +1,7 @@
-package hnt.spring.reactive.controller;
+package hnt.spring.reactive.core.controller;
 
-import hnt.spring.reactive.dto.Customer;
-import hnt.spring.reactive.service.CustomerService;
+import hnt.spring.reactive.core.dto.Customer;
+import hnt.spring.reactive.core.service.CustomerService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;

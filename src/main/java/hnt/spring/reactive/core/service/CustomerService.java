@@ -1,7 +1,7 @@
-package hnt.spring.reactive.service;
+package hnt.spring.reactive.core.service;
 
-import hnt.spring.reactive.dao.CustomerDao;
-import hnt.spring.reactive.dto.Customer;
+import hnt.spring.reactive.core.dao.CustomerDao;
+import hnt.spring.reactive.core.dto.Customer;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;

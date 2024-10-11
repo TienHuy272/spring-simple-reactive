@@ -1,7 +1,7 @@
-package hnt.spring.reactive.router;
+package hnt.spring.reactive.core.router;
 
-import hnt.spring.reactive.handler.CustomerHandler;
-import hnt.spring.reactive.handler.CustomerStreamHandler;
+import hnt.spring.reactive.core.handler.CustomerHandler;
+import hnt.spring.reactive.core.handler.CustomerStreamHandler;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package hnt.spring.reactive.dto;
+package hnt.spring.reactive.core.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
